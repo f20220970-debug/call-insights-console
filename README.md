@@ -1,5 +1,7 @@
 # Call Insights Console + Ops Copilot
 
+**Live demo:** https://call-insights-console.vercel.app (free hosting: the first load can take up to a minute while the servers wake up)
+
 A full-stack front end and an AI agent for the [Call Insights API](https://github.com/f20220970-debug/call-insights-api):
 
 - **`web/`: Next.js 15 + TypeScript console.** Overview (totals, escalations waiting, promises to pay, intent and
