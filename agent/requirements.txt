@@ -1,0 +1,6 @@
+fastapi==0.115.6
+uvicorn==0.32.1
+httpx==0.28.1
+pydantic-ai-slim[google]==2.57.0
+pytest==8.3.3
+pytest-asyncio==0.24.0
